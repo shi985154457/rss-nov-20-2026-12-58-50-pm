@@ -1,0 +1,6 @@
+{
+  "name": "山西日报 RSS 订阅源",
+  "description": "实时聚合《山西日报》权威同步报道，提供标准 RSS 2.0、Atom 1.0、JSON Feed 与 OPML 分栏订阅及在线报纸阅览。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
